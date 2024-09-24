@@ -1,0 +1,12 @@
+Local
+1. git status 
+2. git add "GTGPB6_0917" 
+3. git add .
+4. git commit -m "3 fájl mentes"
+5. git log 
+6. git shortlog
+
+remote
+feltöltés
+
+git push
